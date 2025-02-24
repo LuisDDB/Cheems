@@ -3,6 +3,9 @@
     <string name="text_restart">Reiniciar</string>
     <string name="text_game_over">Perdiste xd</string>
     <string name="text_game_win">Tenemos un ganador :)</string>
+    <string name="text_welcome">Bienvenido al jugeo</string>
+    <string name="text_surrender">Rendirse</string>
+
 
 
 

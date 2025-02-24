@@ -4,5 +4,7 @@
     <string name="text_restart">Restart</string>
     <string name="text_game_over">You are a loser xd</string>
     <string name="text_game_win">We hava a winner :)</string>
+    <string name="text_welcome">Welcome to the game</string>
+    <string name="text_surrender">Surrender</string>
 
 </resources>

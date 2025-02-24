@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cheems</string>
+    <string name="text_restart">Redémarrage</string>
+    <string name="text_game_over">Tu es un perdant xd</string>
+    <string name="text_game_win">Nous avons un gagnant :)</string>
+    <string name="text_welcome">bienvenue au jeu</string>
+    <string name="text_surrender">Se rendre</string>
+
+</resources>
